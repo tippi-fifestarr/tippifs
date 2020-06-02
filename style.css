@@ -1,0 +1,21 @@
+h1 {
+  font-weight: 900;
+}
+a {
+  /* padding: 20px; */
+  border: solid black 1px;
+  /* text-decoration: none; */
+  /* color: black; */
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  border: solid black 1px;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
